@@ -1,6 +1,6 @@
 # kurikulum-app
 
-Slovenian-language web app for generating structured kindergarten curriculum plans (*načrti tematskih sklopov*) using Claude AI, grounded in the official **Kurikulum za vrtce (2025)**.
+Slovenian language web app for generating structured kindergarten curriculum plans (*načrti tematskih sklopov*) using Claude AI, grounded in the official **Kurikulum za vrtce (2025)**.
 
 **Live:** https://tranquil-brioche-091409.netlify.app/
 
